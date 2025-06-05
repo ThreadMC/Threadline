@@ -1,0 +1,10 @@
+[project]
+name = "threadline"
+version = "0.1.0"
+description = "Generates named mappings from Mojang mappings and Obscura intermediaries."
+authors = [
+    { name="ThreadMC", email="contact@threadmc.com" }
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.8"
