@@ -1,0 +1,6 @@
+[submodule "server-jars"]
+	path = server-jars
+	url = https://github.com/threadmc/server-jars
+[submodule "obscura"]
+	path = obscura
+	url = https://github.com/threadmc/Obscura.git
